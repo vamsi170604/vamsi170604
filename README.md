@@ -13,94 +13,36 @@ My expertise lies in **SQL, Python, PostgreSQL, Power BI, and Microsoft Excel**,
 
 ---
 
-# 🚀 Featured Projects
+# 🤝 Connect With Me
 
-## 🏦 Loan Portfolio Analysis
+I'm always open to connecting with recruiters, fellow data professionals, and developers. Feel free to reach out for collaborations, project discussions, or career opportunities.
 
-> **SQL · PostgreSQL · Business Analytics**
+<p align="center">
+  <a href="https://www.linkedin.com/in/vamsi-krishna-radharapu/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 
-A comprehensive banking analytics project designed to analyze loan performance, customer behavior, repayment trends, and portfolio risk using advanced SQL techniques.
+  <a href="mailto:vamsikrishna531062gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 
-### Key Highlights
-
-* Cleaned and transformed real-world loan data
-* Performed portfolio performance analysis
-* Identified high-risk customer segments
-* Calculated loan default and repayment metrics
-* Developed 100+ SQL business insight queries
-* Utilized CTEs, Window Functions, Views, and Aggregate Functions
-* Generated executive-ready business reports
-
----
-
-## 👥 Customer Segmentation Analysis
-
-> **Python · Pandas · Scikit-learn · Matplotlib**
-
-A machine learning project that segments customers based on purchasing behavior to help businesses improve targeted marketing strategies.
-
-### Key Highlights
-
-* Data Cleaning & Preprocessing
-* Exploratory Data Analysis (EDA)
-* Feature Engineering
-* K-Means Clustering
-* Elbow Method & Cluster Evaluation
-* Customer Persona Development
-* Actionable Business Recommendations
+  <a href="https://github.com/vamsi170604" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 
 ---
 
-## 🏥 Healthcare Insurance Claims Analysis
+### 📬 Contact Information
 
-> **SQL · PostgreSQL**
+* **👤 Name:** Vamsi Krishna Radharapu
+* **💼 Role:** Data Analyst
+* **📧 Email:** [vamsikrishna53106@gmail.com](mailto:vamsikrishna53106@gmail.com)
+* **🔗 LinkedIn:** https://www.linkedin.com/in/vamsi-krishna-radharapu/
+* **💻 GitHub:** https://github.com/vamsi170604
+* **📍 Location:** India
 
-A healthcare analytics project focused on evaluating insurance claims, policy performance, hospital efficiency, and operational KPIs.
+> *I'm actively seeking opportunities as a **Data Analyst**, **Business Analyst**, or **Business Intelligence Analyst** and am always interested in collaborating on data-driven projects.*
 
-### Key Highlights
-
-* Claims Analysis
-* Policy Performance Reporting
-* Hospital-wise Performance
-* Revenue Analysis
-* Fraud Detection Indicators
-* Patient Demographics
-* Advanced SQL Reporting
-
----
-
-## 🛍 Retail Sales Dashboard
-
-> **Microsoft Excel · Power Query · Pivot Tables**
-
-An interactive business dashboard for monitoring retail sales performance, customer behavior, product demand, and regional profitability.
-
-### Key Highlights
-
-* Interactive KPI Dashboard
-* Revenue & Profit Analysis
-* Product Performance
-* Regional Sales Insights
-* Customer Segmentation
-* Dynamic Charts & Slicers
-
----
-
-## 📈 Financial Data Analytics
-
-> **Python · Pandas · NumPy · Matplotlib**
-
-A financial analytics project focused on business performance monitoring and executive reporting.
-
-### Key Highlights
-
-* Revenue Analysis
-* Profitability Trends
-* Customer Spending Analysis
-* Time-Series Visualization
-* Business KPI Reporting
-
----
 
 # 🛠️ Technical Skills
 
