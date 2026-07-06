@@ -1,114 +1,176 @@
-# 👋 Hi, I'm Vamsi Krishna 
+# 🙋‍♂️ About Me
 
-### **Data Analyst | SQL | Python | Power BI | Excel | PostgreSQL**
+I'm **Vamsi Krishna Radharapu**, a passionate **Data Analyst** and **Computer Science Engineering** student dedicated to transforming complex datasets into meaningful business insights. I enjoy solving real-world business problems through data analysis, visualization, and reporting using modern analytical tools.
 
-Welcome to my GitHub portfolio!
+My expertise lies in **SQL, Python, PostgreSQL, Power BI, and Microsoft Excel**, where I build end-to-end analytics projects that simulate real business scenarios across **Banking, Finance, Retail, Healthcare, and Customer Analytics**.
 
-I am an aspiring **Data Analyst** with a strong passion for transforming raw data into meaningful business insights. I specialize in collecting, cleaning, analyzing, and visualizing data to support strategic decision-making. My projects focus on solving real-world business problems across domains such as **Banking, Retail, Healthcare, Finance, and Customer Analytics** using industry-standard analytical tools and techniques.
-
-I believe that data tells a story, and my goal is to uncover that story through accurate analysis, compelling visualizations, and actionable recommendations.
-
----
-
-# 💼 Professional Summary
-
-* 📊 Analyze structured datasets to discover trends, patterns, and business opportunities.
-* 🗄️ Write optimized SQL queries for reporting, data extraction, and performance analysis.
-* 🐍 Perform data cleaning, transformation, exploratory data analysis (EDA), and machine learning using Python.
-* 📈 Design interactive dashboards and reports using Power BI and Microsoft Excel.
-* 📋 Build end-to-end analytics projects that mirror real-world business scenarios.
-* 📉 Develop KPIs, performance metrics, and executive dashboards to support data-driven decision-making.
-* 🌱 Continuously learning advanced analytics, business intelligence, and modern data technologies.
+* 📊 Currently building end-to-end Data Analytics portfolio projects
+* 📈 Passionate about Business Intelligence, Data Visualization, and SQL Analytics
+* 🗄️ Specialized in Data Cleaning, Exploratory Data Analysis (EDA), Dashboard Development, and Business Reporting
+* 🌱 Currently learning Advanced PostgreSQL, Power BI DAX, ETL Pipelines, and Data Warehousing
+* 📍 Based in India
+* 💼 Actively seeking **Data Analyst**, **Business Analyst**, and **BI Analyst** opportunities
 
 ---
 
-# 🛠 Technical Skills
+# 🚀 Featured Projects
 
-## Programming Languages
+## 🏦 Loan Portfolio Analysis
 
-* Python
-* SQL
+> **SQL · PostgreSQL · Business Analytics**
 
-## Databases
+A comprehensive banking analytics project designed to analyze loan performance, customer behavior, repayment trends, and portfolio risk using advanced SQL techniques.
 
-* PostgreSQL
-* MySQL
+### Key Highlights
 
-## Data Analysis Libraries
+* Cleaned and transformed real-world loan data
+* Performed portfolio performance analysis
+* Identified high-risk customer segments
+* Calculated loan default and repayment metrics
+* Developed 100+ SQL business insight queries
+* Utilized CTEs, Window Functions, Views, and Aggregate Functions
+* Generated executive-ready business reports
 
-* Pandas
-* NumPy
-* Matplotlib
-* Plotly
-* Scikit-learn
+---
 
-## Business Intelligence & Visualization
+## 👥 Customer Segmentation Analysis
 
-* Power BI
-* Microsoft Excel
+> **Python · Pandas · Scikit-learn · Matplotlib**
 
-## Advanced Excel
+A machine learning project that segments customers based on purchasing behavior to help businesses improve targeted marketing strategies.
 
-* Pivot Tables
-* Pivot Charts
-* Power Query
-* XLOOKUP
-* INDEX-MATCH
-* IF Functions
-* Conditional Formatting
-* Dashboard Automation
-* Data Validation
+### Key Highlights
 
-## SQL Skills
-
-* Complex Joins
-* Common Table Expressions (CTEs)
-* Window Functions
-* Aggregate Functions
-* Subqueries
-* Views
-* Stored Procedures
-* Performance Optimization
-
-## Data Analytics
-
-* Data Cleaning
-* Data Wrangling
+* Data Cleaning & Preprocessing
 * Exploratory Data Analysis (EDA)
-* Statistical Analysis
-* Customer Segmentation
-* Business Reporting
-* KPI Development
-
-## Machine Learning
-
-* K-Means Clustering
-* Classification
-* Regression
 * Feature Engineering
-* Model Evaluation
-
-## Version Control
-
-* Git
-* GitHub
+* K-Means Clustering
+* Elbow Method & Cluster Evaluation
+* Customer Persona Development
+* Actionable Business Recommendations
 
 ---
 
-# 📚 Currently Learning
+## 🏥 Healthcare Insurance Claims Analysis
 
-* Advanced PostgreSQL Performance Tuning
-* Power BI DAX & Data Modeling
-* ETL Pipeline Development
-* Data Warehousing Concepts
-* Advanced Machine Learning
-* Cloud Data Platforms (AWS & Azure)
-* Business Analytics Case Studies
+> **SQL · PostgreSQL**
+
+A healthcare analytics project focused on evaluating insurance claims, policy performance, hospital efficiency, and operational KPIs.
+
+### Key Highlights
+
+* Claims Analysis
+* Policy Performance Reporting
+* Hospital-wise Performance
+* Revenue Analysis
+* Fraud Detection Indicators
+* Patient Demographics
+* Advanced SQL Reporting
 
 ---
 
-# 🎯 Career Objective
+## 🛍 Retail Sales Dashboard
 
-I am actively building a portfolio of real-world analytics projects that demonstrate my ability to solve business challenges using data. My objective is to contribute as a **Data Analyst** by leveraging analytical thinking, SQL, Python, Power BI, and Excel to help organizations make informed, data-driven decisions while continuously expanding my technical expertise.
+> **Microsoft Excel · Power Query · Pivot Tables**
+
+An interactive business dashboard for monitoring retail sales performance, customer behavior, product demand, and regional profitability.
+
+### Key Highlights
+
+* Interactive KPI Dashboard
+* Revenue & Profit Analysis
+* Product Performance
+* Regional Sales Insights
+* Customer Segmentation
+* Dynamic Charts & Slicers
 
 ---
+
+## 📈 Financial Data Analytics
+
+> **Python · Pandas · NumPy · Matplotlib**
+
+A financial analytics project focused on business performance monitoring and executive reporting.
+
+### Key Highlights
+
+* Revenue Analysis
+* Profitability Trends
+* Customer Spending Analysis
+* Time-Series Visualization
+* Business KPI Reporting
+
+---
+
+# 🛠️ Technical Skills
+
+| Category                  | Technologies                                                                            |
+| ------------------------- | --------------------------------------------------------------------------------------- |
+| **Programming**           | Python, SQL                                                                             |
+| **Databases**             | PostgreSQL, MySQL                                                                       |
+| **Python Libraries**      | Pandas, NumPy, Matplotlib, Plotly, Scikit-learn                                         |
+| **Business Intelligence** | Power BI, Microsoft Excel                                                               |
+| **Excel**                 | Pivot Tables, Pivot Charts, Power Query, XLOOKUP, INDEX-MATCH, Conditional Formatting   |
+| **SQL**                   | Joins, CTEs, Window Functions, Views, Subqueries, Stored Procedures, Query Optimization |
+| **Data Analytics**        | Data Cleaning, EDA, Statistical Analysis, Feature Engineering, KPI Reporting            |
+| **Machine Learning**      | K-Means Clustering, Classification, Regression                                          |
+| **Version Control**       | Git, GitHub                                                                             |
+
+---
+
+# 📊 Core Competencies
+
+* Business Intelligence
+* Data Cleaning & Transformation
+* SQL Query Optimization
+* Exploratory Data Analysis (EDA)
+* Dashboard Development
+* Data Visualization
+* KPI Reporting
+* Customer Segmentation
+* Financial Analytics
+* Banking Analytics
+* Healthcare Analytics
+* Retail Analytics
+* Business Reporting
+* Decision Support Analytics
+
+---
+
+# 🎯 Career Goals
+
+### Short-Term
+
+* Build a world-class Data Analytics portfolio with real business case studies
+* Master Advanced SQL and PostgreSQL optimization
+* Develop interactive Power BI dashboards
+* Contribute to open-source analytics projects
+* Earn industry-recognized analytics certifications
+
+### Long-Term
+
+* Become a Data Analyst specializing in Business Intelligence
+* Design scalable analytics solutions for enterprise organizations
+* Help businesses make data-driven decisions through actionable insights
+* Advance into Analytics Engineering and Data Science roles
+
+---
+
+# 💡 Areas of Interest
+
+* Business Intelligence
+* Data Analytics
+* SQL Performance Optimization
+* Financial Analytics
+* Banking Analytics
+* Healthcare Analytics
+* Retail Analytics
+* Customer Analytics
+* Dashboard Development
+* Data Storytelling
+* Predictive Analytics
+* Machine Learning for Business
+
+---
+
+> **"Turning data into insights and insights into business value."**
