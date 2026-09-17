@@ -79,23 +79,6 @@ I'm always open to connecting with recruiters, fellow data professionals, and de
 
 ---
 
-# 🎯 Career Goals
-
-### Short-Term
-
-* Build a world-class Data Analytics portfolio with real business case studies
-* Master Advanced SQL and PostgreSQL optimization
-* Develop interactive Power BI dashboards
-* Contribute to open-source analytics projects
-* Earn industry-recognized analytics certifications
-
-### Long-Term
-
-* Become a Data Analyst specializing in Business Intelligence
-* Design scalable analytics solutions for enterprise organizations
-* Help businesses make data-driven decisions through actionable insights
-* Advance into Analytics Engineering and Data Science roles
-
 ---
 
 # 💡 Areas of Interest
